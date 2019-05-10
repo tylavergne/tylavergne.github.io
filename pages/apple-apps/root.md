@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Apple Apps
+title: Apps
 permalink: /apple-apps
 ---
 
