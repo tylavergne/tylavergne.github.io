@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Information
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello! My name is Ty Lavergne and I am an Apple iOS App Developer.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rangerty@exede.net](mailto:rangerty@exede.net)
