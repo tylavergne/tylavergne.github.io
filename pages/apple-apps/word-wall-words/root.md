@@ -10,6 +10,6 @@ To get started, click on Word Lists. This will show the word lists that have bee
 
 You can turn on Word Grouping, which while in Flashcards, will combine the current week with the previous weeks. For example, if you have selected Week 5, Word Grouping will include Week 1 through Week 5 in Flashcards.
 
-[View on the Apple App Store](https://itunes.apple.com/us/app/buna-cougar-stickers/id1449193686?ls=1&mt=8?app=messages)
+[View on the Apple App Store](https://itunes.apple.com/us/app/word-wall-words/id1448109625?mt=8)
 
-[View Privacy Policy]({{ site.baseurl }}/apple-apps/buna-cougar-stickers/privacy-policy/)
+[View Privacy Policy]({{ site.baseurl }}/apple-apps/word-wall-words/privacy-policy/)
