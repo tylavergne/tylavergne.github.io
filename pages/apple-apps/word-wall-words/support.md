@@ -6,7 +6,7 @@ permalink: /apple-apps/word-wall-words/support/
 
 # Word Wall Words
 
-———————————
+-----------------
 
 ## Frequently Asked Questions
 
@@ -34,6 +34,8 @@ Yes! Go to the Main Menu and click Edit Words. This will present all the saved w
 
 You can either delete individual words by swiping left on the Edit Words/Manage Words Menu. If you wish to delete all the individual words at once, click the Erase all Words button from the Settings Menu.
 
-## Contact Me
+-----------------
+
+# Contact Me
 
 If you still need more assistance, please do not hesitate to [contact me.]({{ site.baseurl }}/contact-me/)
