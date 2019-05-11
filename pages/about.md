@@ -6,7 +6,11 @@ permalink: /about/
 
 ### Ty Lavergne
 
-Hello! My name is Ty Lavergne, and I am an Apple iOS App Developer. I received my Apple Developer Certificate in January 2019. I currently have two apps on the Apple iOS App Store with more apps to come soon. For more information on my apps, [view my apps.]({{ site.baseurl }}/apple-apps)
+Hello! My name is Ty Lavergne, and I am an Apple iOS App Developer. I have always had a fascination with technology. Ever since I can remember, I have always dreamed to become an Apple Developer. On January 12, 2019, my dream came true.
+
+I received my Apple Developer Certificate in December 2018. My first app, Buna Cougar Stickers, went live on January 12, 2019. Two days later, my second app, Word Wall Words, also went live on the Apple App Store.
+
+I am incredibly blessed for the ability to share my apps, as well as my future apps, with the world. For more information on my apps, [view my apps.]({{ site.baseurl }}/apple-apps)
 
 I hope you enjoy the apps that I worked so hard to make.
 
