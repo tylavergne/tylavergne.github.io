@@ -12,7 +12,7 @@ Ty Lavergne (“I”) has adopted this Privacy Policy to explain how I collect, 
 
 I operate certain mobile applications (Word Wall Words) which may be viewed as being directed to children under the age of thirteen (13) which are distributed in Apple’s App Store.
 
-Should you have any questions relating to this Privacy Policy, please contact me via the information located at https://sites.google.com/view/ty-lavergne/contact-me.
+Should you have any questions relating to this Privacy Policy, [please contact me.]({{ site.baseurl }}/contact-me/)
 
 I reserve the right to modify this Privacy Policy as reasonably necessary, so please review it frequently. Your continued use of the Word Wall Words app will signify your acceptance of the changes to this Privacy Policy.
 
@@ -46,7 +46,7 @@ With respect to such Word Wall Words app Non-personal Data, I have no idea of th
 
 ### How User Information is Collected
 
-The above-mentioned Non-personal Data are collected by Apple, Inc. and stored on Apple’s servers. I access the data via a iTunes Connect, App Analytics. For more information on Apple’s User Information collection please refer to their privacy policy at http://www.apple.com/legal/privacy/
+The above-mentioned Non-personal Data are collected by Apple, Inc. and stored on Apple’s servers. I access the data via a iTunes Connect, App Analytics. For more information on Apple’s User Information collection please refer to their [privacy policy.](http://www.apple.com/legal/privacy/)
 
 ### Advertising
 
