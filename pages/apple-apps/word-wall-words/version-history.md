@@ -44,16 +44,19 @@ Initial Version
 
 -----------------
 
-## Version 1.0
+## Version 2.3
 
-### January 14, 2019
+### March 2, 2019
 
-Initial Version
+- Added Word Lists Sharing. You can now swipe left on a Word List and click Share to send a Word List to others who use Word Wall Words.
+- Added Spell Pop. Spell Pop is a new feature that will pop out and change the color of each letter in Flashcards. You can turn on this feature by going to Settings.
+- Added more editing features for Word Lists. You now can now rename and rearrange Word Lists and Words.
+- Bug Fixes.
 
 -----------------
 
-## Version 1.0
+## Version 2.3.1
 
-### January 14, 2019
+### March 23, 2019
 
-Initial Version
+- Fixed a bug in Spell Pop.
