@@ -41,3 +41,19 @@ Initial Version
 - Changed the Kindergarten Default Word List.
 - Corrected several bugs that would cause the app to crash.
 - Changed the App Icon.
+
+-----------------
+
+## Version 1.0
+
+### January 14, 2019
+
+Initial Version
+
+-----------------
+
+## Version 1.0
+
+### January 14, 2019
+
+Initial Version
