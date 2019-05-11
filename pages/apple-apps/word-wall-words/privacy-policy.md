@@ -53,4 +53,5 @@ The above-mentioned Non-personal Data are collected by Apple, Inc. and stored on
 I do not display advertising in it the Word Wall Words app.
 
 Information about this privacy policy
+
 This privacy policy relates solely to the Word Wall Word app distributed via Apple’s iOS, iTunes or App Stores.
