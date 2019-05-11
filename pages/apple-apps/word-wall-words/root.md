@@ -15,3 +15,5 @@ You can turn on Word Grouping, which while in Flashcards, will combine the curre
 [View on the Apple App Store](https://itunes.apple.com/us/app/word-wall-words/id1448109625?mt=8)
 
 [View Privacy Policy]({{ site.baseurl }}/apple-apps/word-wall-words/privacy-policy/)
+
+[View Support]({{ site.baseurl }}/apple-apps/word-wall-words/support/)
