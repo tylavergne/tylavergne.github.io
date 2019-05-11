@@ -13,3 +13,5 @@ The Buna Cougar Stickers app allows you to show your school spirit in texts! Thi
 [View Privacy Policy]({{ site.baseurl }}/apple-apps/buna-cougar-stickers/privacy-policy/)
 
 [View Support]({{ site.baseurl }}/apple-apps/buna-cougar-stickers/support/)
+
+[View Version History]({{ site.baseurl }}/apple-apps/buna-cougar-stickers/version-history/)
