@@ -15,7 +15,3 @@ Sincerely,
 Ty Lavergne
 
 Apple Developer
-
-### Contact me
-
-[rangerty@exede.net](mailto:rangerty@exede.net)
