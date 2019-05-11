@@ -10,6 +10,8 @@ Hello! My name is Ty Lavergne, and I am an Apple iOS App Developer. I received m
 
 I hope you enjoy the apps that I worked so hard to make.
 
+-----------------
+
 Sincerely,
 
 Ty Lavergne
