@@ -6,7 +6,7 @@ permalink: /apple-apps/buna-cougar-stickers/privacy-policy/
 
 ## Privacy Policy for Buna Cougar Stickers by Ty Lavergne
 
-Last Revised: January 25, 2019
+Last Revised: May 12, 2019
 
 Ty Lavergne (“I”) has adopted this Privacy Policy to explain how I collect, store, and use the information collected in connection with the Buna Cougar Stickers App. I respect the privacy of the users of the Buna Cougar Stickers App (“User” or “you”) and am committed to protecting the User’s information. You have a right to know my practices regarding the information I may collect and use when you use the Buna Cougar Stickers App.
 
@@ -52,6 +52,6 @@ The above-mentioned Non-personal Data are collected by Apple, Inc. and stored on
 
 I do not display advertising in it the Buna Cougar Stickers App.
 
-Information about this privacy policy
+### Information about this privacy policy
 
 This privacy policy relates solely to the Buna Cougar Stickers App distributed via Apple’s iOS, iTunes or App Stores.
