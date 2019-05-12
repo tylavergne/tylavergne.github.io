@@ -6,7 +6,7 @@ permalink: /apple-apps/word-wall-words/privacy-policy/
 
 Privacy Policy for Word Wall Words by Ty Lavergne
 
-Last Revised: January 25, 2019
+Last Revised: May 12, 2019
 
 Ty Lavergne (“I”) has adopted this Privacy Policy to explain how I collect, store, and use the information collected in connection with the Word Wall Words App. I respect the privacy of the users of the Word Wall Words App (“User” or “you”) and am committed to protecting the User’s information. You have a right to know my practices regarding the information I may collect and use when you use the Word Wall Words app.
 
@@ -52,6 +52,6 @@ The above-mentioned Non-personal Data are collected by Apple, Inc. and stored on
 
 I do not display advertising in it the Word Wall Words app.
 
-Information about this privacy policy
+### Information about this privacy policy
 
-This privacy policy relates solely to the Word Wall Word app distributed via Apple’s iOS, iTunes or App Stores.
+This privacy policy relates solely to the Word Wall Words app distributed via Apple’s iOS, iTunes or App Stores.
