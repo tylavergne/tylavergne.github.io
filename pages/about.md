@@ -12,7 +12,7 @@ I received my Apple Developer Certificate in December 2018. My first app, Buna C
 
 I am incredibly blessed for the ability to share my apps, as well as my future apps, with the world. For more information on my apps, [view my apps.]({{ site.baseurl }}/apple-apps)
 
-I hope you enjoy the apps that I worked so hard to make.
+I hope you enjoy the apps that I have worked so hard to make.
 
 -----------------
 
