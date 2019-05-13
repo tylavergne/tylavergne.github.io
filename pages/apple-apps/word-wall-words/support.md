@@ -30,7 +30,7 @@ Automatic Word Switcher is a new feature that has been added to Word Wall Words 
 
 Yes! Go to the Main Menu and click Edit Lists. This will present all the saved lists and allow you to the ablilty to add lists if you wish.
 
-### What options do I have to delete saved words?
+### What options do I have to delete saved word lists?
 
 You can either delete individual word lists, weeks, or words by swiping left on the item in Edit/Manage Words Menu. If you wish to delete all the saved data at once, click the Erase all Word Lists button from the Settings Menu.
 
