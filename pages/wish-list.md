@@ -2,6 +2,6 @@
 layout: page
 title: Wish List
 permalink: /wish-list/
-redirect-from:
+redirect_from:
   - /list/
 ---
