@@ -2,6 +2,7 @@
 layout: page
 title: Wish List
 permalink: /wish-list/
+sitemap: false
 redirect_from:
   - /list/
 ---
