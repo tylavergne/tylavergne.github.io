@@ -14,6 +14,8 @@ The V5 Smart Motor is more than twice as powerful as the 2-Wire motor 393, and p
 
 ### Price: $34.99
 
+[View Page](https://www.vexrobotics.com/vexedr/products/v5-products/276-4840.html)
+
 -----------------
 
 ## V5 Robot Battery Li-Ion 1100mAh
@@ -23,6 +25,8 @@ The V5 Smart Motor is more than twice as powerful as the 2-Wire motor 393, and p
 The V5 Robot Battery Li-Ion 1100mAh is the next evolution of the VEX EDR NiMh Battery, which will provide you consistent performance every time you power up your robot.
 
 ### Price: $49.99
+
+[View Page](https://www.vexrobotics.com/vexedr/products/v5-products/276-4811.html)
 
 -----------------
 
@@ -34,6 +38,8 @@ Give your driver the chance to see things from the robot's perspective. The Visi
 
 ### Price: $69.99
 
+[View Page](https://www.vexrobotics.com/vexedr/products/v5-products/276-4850.html)
+
 -----------------
 
 ## Hex Nut Retainers
@@ -43,3 +49,5 @@ Give your driver the chance to see things from the robot's perspective. The Visi
 Assembling a VEX robot just got easier with our Hex Nut Retainers. With a center hole sized to securely fit a Hex Nut, a #8-32 screw can be tightened without the need for a wrench or pliers
 
 ### Price: $4.99
+
+[View Page](https://www.vexrobotics.com/vexedr/products/v5-products/nut-retainers.html)
