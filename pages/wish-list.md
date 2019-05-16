@@ -78,3 +78,15 @@ More tools for building the ultimate robot. Additional metal and hardware pieces
 ### Price: $79.99
 
 [View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/276-2161.html)
+
+-----------------
+
+## On-Field Robot Expansion Sizing Tool
+
+![On-Field Robot Expansion Sizing Tool](https://www.vexrobotics.com/media/catalog/product/cache/1/image/265x265/9df78eab33525d08d6e5fb8d27136e95/e/3/e33a9101.jpg)
+
+The On-Field Robot Expansion Sizing Tool is the next generation of the Robot Sizing Tool. Use this product to inspect whether a VRC In the Zone Robot fits into the starting configuration of 18" while not exceeding the maximum expansion limit of 36". This sizing bracket does not require the robot to be sitting on a baseplate and can be used to measure a robot on any surface.
+
+### Price: $39.99
+
+[View Page](https://www.vexrobotics.com/276-5942.html)
