@@ -34,3 +34,12 @@ Give your driver the chance to see things from the robot's perspective. The Visi
 
 ### Price: $69.99
 
+-----------------
+
+## Hex Nut Retainers
+
+![Hex Nut Retainers](https://www.vexrobotics.com/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/2/1/217-6481_1.jpg)
+
+Assembling a VEX robot just got easier with our Hex Nut Retainers. With a center hole sized to securely fit a Hex Nut, a #8-32 screw can be tightened without the need for a wrench or pliers
+
+### Price: $4.99
