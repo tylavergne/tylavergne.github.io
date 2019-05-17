@@ -2,6 +2,9 @@
 layout: page
 title: Apps
 permalink: /apple-apps
+redirect_from:
+  - /apps/
+  - /app/
 ---
 
 I have the following apps on the Apple App Store.
