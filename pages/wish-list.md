@@ -136,3 +136,17 @@ Now you can octocat code in a brand new way: 2.0. Printed on American Apparel tr
 ### Price: $25
 
 [View Page](https://github.myshopify.com/collections/all-products/products/i-octocat-code-2-0)
+
+-----------------
+
+## Invertocat 2.0 Shirt
+
+![Invertocat 2.0 Shirt](https://cdn.shopify.com/s/files/1/0051/4802/products/invertocat_600x600.png?v=1520399398)
+
+Invertocat is in stealth mode and is ready for primetime, now with a stylish, more visible front logo.
+
+Everything else is the same as the last edition. Same American Apparel tri-blend shirt (sizing is more normal to AA this time). Still stylish as hell, and still SOFTER THAN ISH. Best to buy three, because your friends will steal this right off your back. And it's still not summer yet, so you might get cold. Unless you live in the Southern hemisphere, in which case I salute you, upside down person.
+
+### Price: $25
+
+[View Page](https://github.myshopify.com/collections/all-products/products/invertocat-2-0)
