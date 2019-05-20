@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Buna Cougar Stickers
+redirect_to: /apple-apps/buna-cougar-stickers/
 ---
 
 The Buna Cougar Stickers app went live on January 12, 2019.
