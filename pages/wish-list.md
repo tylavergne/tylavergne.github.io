@@ -7,7 +7,13 @@ redirect_from:
   - /list/
 ---
 
+
+
+
+
 -----------------
+
+# VEX Products
 
 ## V5 Smart Motors
 
@@ -116,6 +122,29 @@ A hardware fastener with a threaded hole. All VEX nuts are 8-32 threads.
 [View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/nuts-8-32.html)
 
 -----------------
+
+## #8-32 Standoffs (12-choices)
+
+![#8-32 Standoffs (12-choices)](https://www.vexrobotics.com/feo-robotevents/v/C/0PzzKJ8Rw.webp)
+
+A standoff is used in mechanics and electronics to separate two parts from one another while creating a rigid connection. All VEX Standoffs have 8-32 threads.
+
+### Starting Price: $2.95
+
+[View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/standoffs-8-32.html)
+
+
+
+
+
+
+
+
+
+
+-----------------
+
+# GitHub Shop Products
 
 ## Reflective Hoodie
 
