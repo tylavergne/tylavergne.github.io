@@ -93,6 +93,30 @@ The On-Field Robot Expansion Sizing Tool is the next generation of the Robot Siz
 
 -----------------
 
+## Screws
+
+![Screws](https://www.vexrobotics.com/feo-robotevents/u/7/fLs24ZGn0.webp)
+
+The proverbial glue that holds your robot together. VEX EDR screws come in a multitude of lengths and two standard head sizes, 6-32 and 8-32.
+
+### Starting Price: $4.95
+
+[View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/all-screws.html)
+
+-----------------
+
+## #8-32 Nuts (3-choices)
+
+![#8-32 Nuts (3-choices)](https://www.vexrobotics.com/feo-robotevents/6/1/KhtYFzcmE.webp)
+
+A hardware fastener with a threaded hole. All VEX nuts are 8-32 threads.
+
+### Starting Price: $2.99
+
+[View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/nuts-8-32.html)
+
+-----------------
+
 ## Reflective Hoodie
 
 ![Reflective Hoodie](https://cdn.shopify.com/s/files/1/0051/4802/products/hoodie-reflective-front_600x600.png?v=1520399500)
