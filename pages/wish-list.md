@@ -133,6 +133,19 @@ A standoff is used in mechanics and electronics to separate two parts from one a
 
 [View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/standoffs-8-32.html)
 
+-----------------
+
+## Wheels
+
+![Wheels](https://www.vexrobotics.com/feo-robotevents/X/K/qCoWmb1YE.webp)
+
+Defense may not always win championships, but being able to move does. Put some power on the floor with our large variety of wheel options available for builders.
+
+Omni-Directional or Mecanum Wheels are great for quick, lateral movements. If you need more grip, Traction Wheels offer great pushing ability and are designed for optimal grip on soft surfaces like the foam tiles used in the VEX Robotics Competition.
+
+### Starting Price: $9.99
+
+[View Page](https://www.vexrobotics.com/vexedr/products/accessories/motion/edr-wheels.html)
 
 
 
