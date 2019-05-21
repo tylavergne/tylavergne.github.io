@@ -40,7 +40,9 @@ I do not directly collect and store on my servers any Personal Information from 
 
 ### Non-personal Data
 
-I collect non-identifiable and anonymous information via Apple, Inc. as detailed below (“Non-personal Data”). I only receive data from Apple from users who have agreed to share their diagnostics and usage information with app developers. With respect to such Buna Cougar Stickers Non-personal Data, I have no idea of the identity of the User from whom Apple collected the Buna Cougar Stickers Non-personal Data. Buna Cougar Stickers Non-personal Data collected by Apple may include the following technical information: device type (e.g. iPhone, iPad, iPod) and country of sale (e.g. United States, United Kingdom, Germany, etc).
+I collect non-identifiable and anonymous information via Apple, Inc. as detailed below (“Non-personal Data”). I only receive data from Apple from users who have agreed to share their diagnostics and usage information with app developers.
+
+With respect to such Buna Cougar Stickers Non-personal Data, I have no idea of the identity of the User from whom Apple collected the Buna Cougar Stickers Non-personal Data. Buna Cougar Stickers Non-personal Data collected by Apple may include the following technical information: device type (e.g. iPhone, iPad, iPod) and country of sale (e.g. United States, United Kingdom, Germany, etc).
 
 ### How User Information is Collected
 
