@@ -14,10 +14,10 @@ You can turn on Word Grouping, which while in Flashcards, will combine the curre
 
 -----------------
 
-[View on the Apple App Store](https://itunes.apple.com/us/app/word-wall-words/id1448109625?mt=8)
+[View on the Apple App Store](https://itunes.apple.com/us/app/word-wall-words/id1448109625?mt=8 "View on the Apple App Store")
 
-[View Privacy Policy]({{ site.baseurl }}/apple-apps/word-wall-words/privacy-policy/)
+[View Privacy Policy]({{ site.baseurl }}/apple-apps/word-wall-words/privacy-policy/ "Privacy Policy")
 
-[View Support]({{ site.baseurl }}/apple-apps/word-wall-words/support/)
+[View Support]({{ site.baseurl }}/apple-apps/word-wall-words/support/ "Support")
 
-[View Version History]({{ site.baseurl }}/apple-apps/word-wall-words/version-history/)
+[View Version History]({{ site.baseurl }}/apple-apps/word-wall-words/version-history/ "Version History")
