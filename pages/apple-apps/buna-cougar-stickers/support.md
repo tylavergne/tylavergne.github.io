@@ -16,13 +16,13 @@ Apple has many excellent Support Pages on how to best use Stickers on iMessage.
 
 The Apple Support Page for iMessage Stickers explains how to best use Stickers while sending messages through iMessage.
 
-[View Support Pages](https://support.apple.com/en-us/HT208479)
+[View Support Pages](https://support.apple.com/en-us/HT208479){:target="_blank"}
 
 ### Using Apps
 
 The Apple Support Page for iMessage Apps explains how to download Sticker apps, find Stickers apps on the App Store, and how to manage the Sticker apps Downloaded.
 
-[View Support Pages](https://support.apple.com/en-us/HT206906)
+[View Support Pages](https://support.apple.com/en-us/HT206906){:target="_blank"}
 
 -----------------
 
