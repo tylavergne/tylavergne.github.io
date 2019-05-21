@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Word Wall Words
+redirect_to: {{ site.baseurl }}//apple-apps/word-wall-words/
 ---
 
 Word Wall Words went live on January 14, 2019.
