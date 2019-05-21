@@ -47,7 +47,7 @@ With respect to such Word Wall Words app Non-personal Data, I have no idea of th
 
 ### How User Information is Collected
 
-The above-mentioned Non-personal Data are collected by Apple, Inc. and stored on Apple’s servers. I access the data via a iTunes Connect, App Analytics. For more information on Apple’s User Information collection please refer to their [privacy policy.](http://www.apple.com/legal/privacy/)
+The above-mentioned Non-personal Data are collected by Apple, Inc. and stored on Apple’s servers. I access the data via a iTunes Connect, App Analytics. For more information on Apple’s User Information collection please refer to their [privacy policy.](http://www.apple.com/legal/privacy/){:target="_blank"}
 
 ### Advertising
 
