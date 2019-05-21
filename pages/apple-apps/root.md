@@ -15,4 +15,4 @@ I have the following apps on the Apple App Store.
 
 ## Bug Reporting
 
-If you experience a bug in one of my apps, please [report it.]({{ site.baseurl }}/bug-report/)
+If you experience a bug in one of my apps, please [report it.]({{ site.baseurl }}/bug-report/ "Bug Reporting")
