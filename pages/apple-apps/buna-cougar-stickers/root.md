@@ -2,6 +2,9 @@
 layout: page
 title: Buna Cougar Stickers
 permalink: /apple-apps/buna-cougar-stickers/
+redirect_from:
+  - /buna-cougar-stickers/
+  - /Buna-Cougar-Stickers/
 ---
 
 ![Buna Cougar Stickers Ad]({{ site.baseurl }}/images/Buna Cougar Stickers.JPG)
