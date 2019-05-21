@@ -2,6 +2,9 @@
 layout: page
 title: Word Wall Words
 permalink: /apple-apps/word-wall-words/
+redirect_from:
+  - /word-wall-words/
+  - /Word-Wall-Words/
 ---
 
 ![Word Wall Words Ad]({{ site.baseurl }}/images/Word Wall Words.JPG)
