@@ -23,7 +23,7 @@ The V5 Smart Motor is more than twice as powerful as the 2-Wire motor 393, and p
 
 ### Price: $34.99
 
-[View Page](https://www.vexrobotics.com/vexedr/products/v5-products/276-4840.html "View on VEX Robotics")
+[View Page](https://www.vexrobotics.com/vexedr/products/v5-products/276-4840.html "View on VEX Robotics"){:target="_blank"}
 
 -----------------
 
@@ -35,7 +35,7 @@ The V5 Robot Battery Li-Ion 1100mAh is the next evolution of the VEX EDR NiMh Ba
 
 ### Price: $49.99
 
-[View Page](https://www.vexrobotics.com/vexedr/products/v5-products/276-4811.html "View on VEX Robotics")
+[View Page](https://www.vexrobotics.com/vexedr/products/v5-products/276-4811.html "View on VEX Robotics"){:target="_blank"}
 
 -----------------
 
@@ -47,7 +47,7 @@ Give your driver the chance to see things from the robot's perspective. The Visi
 
 ### Price: $69.99
 
-[View Page](https://www.vexrobotics.com/vexedr/products/v5-products/276-4850.html "View on VEX Robotics")
+[View Page](https://www.vexrobotics.com/vexedr/products/v5-products/276-4850.html "View on VEX Robotics"){:target="_blank"}
 
 -----------------
 
@@ -59,7 +59,7 @@ Assembling a VEX robot just got easier with our Hex Nut Retainers. With a center
 
 ### Price: $4.99
 
-[View Page](https://www.vexrobotics.com/vexedr/products/v5-products/nut-retainers.html "View on VEX Robotics")
+[View Page](https://www.vexrobotics.com/vexedr/products/v5-products/nut-retainers.html "View on VEX Robotics"){:target="_blank"}
 
 -----------------
 
@@ -71,7 +71,7 @@ Lighten the total weight of a robot or mechanism while still keeping it strong. 
 
 ### Starting Price: $23.99
 
-[View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/aluminum-kits.html "View on VEX Robotics")
+[View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/aluminum-kits.html "View on VEX Robotics"){:target="_blank"}
 
 -----------------
 
@@ -83,7 +83,7 @@ More tools for building the ultimate robot. Additional metal and hardware pieces
 
 ### Price: $79.99
 
-[View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/276-2161.html "View on VEX Robotics")
+[View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/276-2161.html "View on VEX Robotics"){:target="_blank"}
 
 -----------------
 
@@ -95,7 +95,7 @@ The On-Field Robot Expansion Sizing Tool is the next generation of the Robot Siz
 
 ### Price: $39.99
 
-[View Page](https://www.vexrobotics.com/276-5942.html "View on VEX Robotics")
+[View Page](https://www.vexrobotics.com/276-5942.html "View on VEX Robotics"){:target="_blank"}
 
 -----------------
 
@@ -107,7 +107,7 @@ The proverbial glue that holds your robot together. VEX EDR screws come in a mul
 
 ### Starting Price: $4.95
 
-[View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/all-screws.html "View on VEX Robotics")
+[View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/all-screws.html "View on VEX Robotics"){:target="_blank"}
 
 -----------------
 
@@ -119,7 +119,7 @@ A hardware fastener with a threaded hole. All VEX nuts are 8-32 threads.
 
 ### Starting Price: $2.99
 
-[View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/nuts-8-32.html "View on VEX Robotics")
+[View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/nuts-8-32.html "View on VEX Robotics"){:target="_blank"}
 
 -----------------
 
@@ -131,7 +131,7 @@ A standoff is used in mechanics and electronics to separate two parts from one a
 
 ### Starting Price: $2.95
 
-[View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/standoffs-8-32.html "View on VEX Robotics")
+[View Page](https://www.vexrobotics.com/vexedr/products/accessories/structure/standoffs-8-32.html "View on VEX Robotics"){:target="_blank"}
 
 -----------------
 
@@ -145,7 +145,7 @@ Omni-Directional or Mecanum Wheels are great for quick, lateral movements. If yo
 
 ### Starting Price: $9.99
 
-[View Page](https://www.vexrobotics.com/vexedr/products/accessories/motion/edr-wheels.html "View on VEX Robotics")
+[View Page](https://www.vexrobotics.com/vexedr/products/accessories/motion/edr-wheels.html "View on VEX Robotics"){:target="_blank"}
 
 
 
@@ -169,7 +169,7 @@ These slate grey California made hoodies are a 50/50 Poly Cotton blend with a si
 
 ### Price: $55
 
-[View Page](https://github.myshopify.com/collections/all-products/products/reflective-hoodie "View on GitHub Shop")
+[View Page](https://github.myshopify.com/collections/all-products/products/reflective-hoodie "View on GitHub Shop"){:target="_blank"}
 
 -----------------
 
@@ -183,7 +183,7 @@ These Next Level 100% cotton shirts come in Light Olive and Indigo and have a bl
 
 ### Price: $25
 
-[View Page](https://github.myshopify.com/collections/all-products/products/github-username-shirt "View on GitHub Shop")
+[View Page](https://github.myshopify.com/collections/all-products/products/github-username-shirt "View on GitHub Shop"){:target="_blank"}
 
 -----------------
 
@@ -201,7 +201,7 @@ Now you can octocat code in a brand new way: 2.0. Printed on American Apparel tr
 
 ### Price: $25
 
-[View Page](https://github.myshopify.com/collections/all-products/products/i-octocat-code-2-0 "View on GitHub Shop")
+[View Page](https://github.myshopify.com/collections/all-products/products/i-octocat-code-2-0 "View on GitHub Shop"){:target="_blank"}
 
 -----------------
 
@@ -215,4 +215,4 @@ Everything else is the same as the last edition. Same American Apparel tri-blend
 
 ### Price: $25
 
-[View Page](https://github.myshopify.com/collections/all-products/products/invertocat-2-0 "View on GitHub Shop")
+[View Page](https://github.myshopify.com/collections/all-products/products/invertocat-2-0 "View on GitHub Shop"){:target="_blank"}
