@@ -28,4 +28,4 @@ The Apple Support Page for iMessage Apps explains how to download Sticker apps, 
 
 ## Contact Me
 
-If you still need more assistance, please do not hesitate to [contact me.]({{ site.baseurl }}/contact-me/)
+If you still need more assistance, please do not hesitate to [contact me.]({{ site.baseurl }}/contact-me/ "Contact Me")
