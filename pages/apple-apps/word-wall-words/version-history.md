@@ -60,3 +60,12 @@ Initial Version
 ### March 23, 2019
 
 - Fixed a bug in Spell Pop.
+
+-----------------
+
+## Version 2.4
+
+### July 4, 2019
+
+- Updated Word List for the upcoming school year.
+- Bug fixes and enhancements.
