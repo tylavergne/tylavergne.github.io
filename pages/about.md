@@ -16,7 +16,7 @@ I hope you enjoy the apps that I have worked so hard to make.
 
 -----------------
 
-Sincerely,
+All things possible,
 
 Ty Lavergne
 
