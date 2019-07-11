@@ -17,3 +17,5 @@ View on the Apple App Store
 [View Support]({{ site.baseurl }}/apple-apps/train-scorekeeper/support/ "Support")
 
 [View Version History]({{ site.baseurl }}/apple-apps/train-scorekeeper/version-history/ "Version History")
+
+[View Credits]({{ site.baseurl }}/apple-apps/train-scorekeeper/credits/ "Credits")
