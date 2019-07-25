@@ -81,7 +81,7 @@ It is Back to School Season, so I decided to go a little crazy on this extravaga
 - The user interface has been completely redesigned from scratch.
 - The app icon has been changed.
 - Under the hood of the whole app has been changed for better performance.
-- An incredible full screen Presenting feature has been added. While Presenting, swipe up and down to enter and leave full screen. Words cannot say how cool full screen Presenting is!
+- An incredible full screen presenting feature has been added. While presenting, swipe up and down to enter and leave full screen. Words cannot say how cool full screen presenting is!
 - A Tutorial has been added to show you around the app and get you comfortable to the new design.
 - Important details about the app have been added to the Settings app.
 - Accessibility features have been added! If you have any Accessibility features turned on in Settings, Word Wall Words will now adjust!
