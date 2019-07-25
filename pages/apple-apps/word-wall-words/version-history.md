@@ -69,3 +69,21 @@ Initial Version
 
 - Updated Word List for the upcoming school year.
 - Bug fixes and enhancements.
+
+-----------------
+
+## Version 3.0
+
+### July 26, 2019
+
+It is Back to School Season, so I decided to go a little crazy on this extravaganza update! This update is a result of weeks of hard work trying to make everything just perfect!
+
+- The user interface has been completely redesigned from scratch.
+- The app icon has been changed.
+- Under the hood of the whole app has been changed for better performance.
+- An incredible full screen Presenting feature has been added. While Presenting, swipe up and down to enter and leave full screen. Words cannot say how cool full screen Presenting is!
+- A Tutorial has been added to show you around the app and get you comfortable to the new design.
+- Important details about the app have been added to the Settings app.
+- Accessibility features have been added! If you have any Accessibility features turned on in Settings, Word Wall Words will now adjust!
+- Speech features have been added! You can go to Settings > Speech Options to turn on the features. Then, when presenting words, Word Wall Words will say the words according to your preference.
+- Bugs have fixed and performance changes have been made across the app.
