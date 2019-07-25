@@ -7,7 +7,7 @@ redirect_from:
   - /Word-Wall-Words/
 ---
 
-![Word Wall Words Ad]({{ site.baseurl }}/images/Word Wall Words.JPG)
+![Word Wall Words Ad]({{ site.baseurl }}/images/Word Wall Words Version 3.0 Ad.jpeg)
 
 Word Wall Words completely changes the way for students to learn and study their sight words! With this app, they only need to carry around their iPhone or iPad, and the words they need are right there.
 
