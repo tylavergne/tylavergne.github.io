@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Redirecting to the Apple App Store...
 permalink: /campaigns/buna-isd
 sitemap: false
