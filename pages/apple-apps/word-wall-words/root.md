@@ -19,6 +19,7 @@ Word Wall Words has a ton of features that no one would ever think that they nee
 - Week Grouping
 - Automatic Word Switcher
 - Speech Options
+- Color Options
 - And many more!
 
 Word Wall Words has several use cases that can be used in all classrooms. A few examples are listed below...
@@ -32,6 +33,7 @@ Word Wall Words also supports many of the Accessibility features that every app 
 - Bold Text
 - Button Shapes
 - On/Off Labels
+- Display Accommodations
 - And many more!
 
 -----------------
