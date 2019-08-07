@@ -92,7 +92,7 @@ It is Back to School Season, so I decided to go a little crazy on this extravaga
 
 ## Version 3.1
 
-### August 7, 2019
+### August 8, 2019
 
 - Color Options have been added! You can now choose a color to use while presenting for the text color, the background color, and the color of Spell Pop.
 - Bug fixes and performance changes.
