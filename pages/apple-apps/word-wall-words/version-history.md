@@ -87,3 +87,14 @@ It is Back to School Season, so I decided to go a little crazy on this extravaga
 - Accessibility features have been added! If you have any Accessibility features turned on in Settings, Word Wall Words will now adjust!
 - Speech features have been added! You can go to Settings > Speech Options to turn on the features. Then, when presenting words, Word Wall Words will say the words according to your preference.
 - Bugs have fixed and performance changes have been made across the app.
+
+-----------------
+
+## Version 3.1
+
+### August 7, 2019
+
+- Color Options have been added! You can now choose a color to use while presenting for the text color, the background color, and the color of Spell Pop.
+- Bug fixes and performance changes.
+
+If you love my app, I would be thrilled if you would leave me a rating or review on the App Store! I love to hear feedback from y'all!
