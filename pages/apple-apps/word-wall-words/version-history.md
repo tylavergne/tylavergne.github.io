@@ -98,3 +98,13 @@ It is Back to School Season, so I decided to go a little crazy on this extravaga
 - Bug fixes and performance changes.
 
 If you love my app, I would be thrilled if you would leave me a rating or review on the App Store! I love to hear feedback from y'all!
+
+-----------------
+
+## Version 3.1.1
+
+### August 15, 2019
+
+Happy back to school season! This updates fixes several bugs dealing with Dynamic Text Accessibility features and performance changes have also been made.
+
+If you love my app, I would be thrilled if you would leave me a rating or review on the App Store! I love to hear feedback from y’all!
