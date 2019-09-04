@@ -2,5 +2,5 @@
 layout: contact-me
 title: Contact Me
 permalink: /contact/
-redirect-from: /contact-me/
+redirect-from: /contact_me/
 ---
