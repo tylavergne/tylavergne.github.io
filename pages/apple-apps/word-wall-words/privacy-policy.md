@@ -12,7 +12,7 @@ Ty Lavergne (“I”) has adopted this Privacy Policy to explain how I collect, 
 
 I operate certain mobile applications (Word Wall Words) which may be viewed as being directed to children under the age of thirteen (13) which are distributed in Apple’s App Store.
 
-Should you have any questions relating to this Privacy Policy, [please contact me.]({{ site.baseurl }}/contact-me/ "Contact Me")
+Should you have any questions relating to this Privacy Policy, [please contact me.]({{ site.baseurl }}/contact/ "Contact")
 
 I reserve the right to modify this Privacy Policy as reasonably necessary, so please review it frequently. Your continued use of the Word Wall Words app will signify your acceptance of the changes to this Privacy Policy.
 
