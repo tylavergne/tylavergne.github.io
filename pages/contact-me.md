@@ -1,5 +1,5 @@
 ---
 layout: contact-me
 title: Contact Me
-permalink: /contact-me/
+permalink: /contact/
 ---
