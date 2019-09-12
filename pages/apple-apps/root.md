@@ -19,4 +19,4 @@ If you are looking for the pages of a Beta App, please add the app name to the e
 
 ## Bug Reporting
 
-If you experience a bug in one of my apps, please [report it.]({{ site.baseurl }}/bug-report/ "Bug Reporting")
+If you experience a bug in one of my apps, please [report it.]({{ site.baseurl }}/report/ "Bug Reporting")
