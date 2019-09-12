@@ -1,5 +1,6 @@
 ---
 layout: bug-report
 title: Bug Reporting
-permalink: /bug-report/
+permalink: /report/
+redirect_from: /bug-report/
 ---
