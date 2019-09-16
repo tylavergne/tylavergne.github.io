@@ -113,7 +113,7 @@ If you love my app, I would be thrilled if you would leave me a rating or review
 
 ## Version 3.2
 
-### September 15, 2019
+### September 16, 2019
 
 I hope school is going smoothly for everyone! In this update, I added a feature long needed. You can now add your own time to the Automatic Word Switcher! This means that the app can now automatically switch between the words at a pace that works best for your kids! I hope you enjoy!
 
