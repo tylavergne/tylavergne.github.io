@@ -120,3 +120,15 @@ I hope school is going smoothly for everyone! In this update, I added a feature 
 If you love my app, I would be thrilled if you would leave me a rating or review on the App Store! I love to hear feedback from y’all!
 
 Thanks for using Word Wall Words!
+
+-----------------
+
+## Version 3.3
+
+### March 18, 2020
+
+Word Wall Words now supports iOS 13! I hope you enjoy using dark mode and the many more new features powered by iOS 13.
+
+If you love my app, I would be thrilled if you would leave me a rating or review on the App Store! I love to hear feedback from y’all!
+
+Thanks for using Word Wall Words!
