@@ -132,3 +132,15 @@ Word Wall Words now supports iOS 13! I hope you enjoy using dark mode and the ma
 If you love my app, I would be thrilled if you would leave me a rating or review on the App Store! I love to hear feedback from y’all!
 
 Thanks for using Word Wall Words!
+
+-----------------
+
+## Version 3.3.1
+
+### September 13, 2020
+
+I hope school is going smoothly for everyone! In this update, I fixed a bug in Settings that would result in the app crashing.
+
+If you love my app, I would be thrilled if you would leave me a rating or review on the App Store! I love to hear feedback from y’all!
+
+Thanks for using Word Wall Words!
