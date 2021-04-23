@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zoom Link for Robotics
-permalink: /class/
+permalink: /class
 ---
 
 ### Zoom Link
