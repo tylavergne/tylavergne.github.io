@@ -6,4 +6,4 @@ permalink: /robot
 
 ### Zoom Link
 
-[Zoom](https://us02web.zoom.us/j/87563330246?pwd=YWN2UVJvZmRidW9ES0cvZEo0aXEzdz09)
+[Zoom](https://us02web.zoom.us/j/89632071899?pwd=ellCOFNneDFFb1RYQzViSUJKK29Vdz09)
